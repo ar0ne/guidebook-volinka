@@ -2,7 +2,7 @@
 Guidebook - Волынка / Powder cellar
 ***********************************
 
-.. image:: img/overview.png
+.. image:: ./img/overview.png
     :width: 500px
     :align: center
     :height: 400px
