@@ -1,12 +1,7 @@
 ***********************************
 Guidebook - Волынка / Powder cellar
 ***********************************
-
-.. image::https://raw.githubusercontent.com/ar0ne/guidebook-volinka/master/img/overview.png
-    :width: 500px
-    :align: center
-    :height: 400px
-    :alt overview image
+.. image:: img/overview.png
 
 Описание
 ########
